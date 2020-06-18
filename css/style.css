@@ -1,0 +1,49 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #fff
+}
+.style1 {
+  background-color: red;
+  display: flex;
+  margin-left: 10.416666666666668vw;
+  margin-top: 23.14814814814815vh;
+  width: 67.70833333333333vw;
+  height: 18.229166666666668vw;
+  z-index: 0
+}
+.style2,
+.style3 {
+  position: relative
+}
+.style2 {
+  display: flex;
+  flex-direction: column;
+  background-color: #003cff;
+  margin-left: 18.229166666666668vw;
+  margin-top: 2.6041666666666665vw;
+  width: 20.833333333333332vw;
+  height: 10.416666666666666vw;
+  z-index: 1
+}
+.style3 {
+  background-color: #1f0;
+  margin-left: 10.416666666666666vw;
+  margin-top: 5.729166666666667vw;
+  width: 26.041666666666668vw;
+  height: 20.833333333333332vw;
+  z-index: 2;
+  flex-shrink: 0
+}
+.style4 {
+  background-color: #fe0;
+  margin-left: 15.364583333333334vw;
+  margin-top: 4.6875vw;
+  width: 11.979166666666666vw;
+  height: 8.333333333333334vw;
+  z-index: 3
+}
+.breakpoint-0 {
+  display: block
+}
